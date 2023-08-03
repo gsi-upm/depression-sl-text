@@ -1,1 +1,1 @@
-# depression-text
+# Code for Detection of the Severity Level of Depression Signs in Text Combining a Feature-based Framework with Distributional Representations
